@@ -1,0 +1,13 @@
+.blog-section {
+  margin: 4rem 0;
+}
+
+.blog-snippet {
+  line-clamp: 3;
+}
+
+.date-read-more {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
